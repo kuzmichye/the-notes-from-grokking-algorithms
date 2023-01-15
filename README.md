@@ -1,2 +1,2 @@
 # the-notes-from-grokking-algorithms
-оо
+#The collection of algorithsm
